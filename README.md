@@ -1,5 +1,11 @@
 # Group 11
-Labsheet 1- Rapid Application Development 
+<h4>Labsheet 1- Rapid Application Development </h4>
+
+Git and GitHub
+<br>
+<br>
+<a href="https://git.com" target="blank"><img align="center" src="https://github.com/milindaShehan/skill-icons/blob/main/icons/Git.svg" alt="milinda_shehan_" height="30" width="40" /></a>
+<a href="https://github.com" target="blank"><img align="center" src="https://github.com/milindaShehan/skill-icons/blob/main/icons/Github-Dark.svg" alt="milinda_shehan_" height="30" width="40" /></a>
 
 ````
 2021/CS/049 - 21000492 - V.V.A.S Dharmawardhana
